@@ -7,7 +7,7 @@ When you're creating a lesson, **NEVER** make your commits in the master branch.
 Your content will be reviewed by someone on the Flatiron Team and we'll make comments in the PR. When it's fully been reviewed, we'll assign the PR back to you. If the comments are minor, we'll tell you to fix and merge the PR. Otherwise you'll fix the lesson and then @ mention AnnJohn in the PR. We'll take another review and either merge or assign back with additional comments.
 
 
-# Keeping Trackwith Spreadsheets
+# Keeping Track of Work with Spreadsheets
 
 We use Google Spreadsheets to keep track of all the activity that's going on in Github with curriculum. Here's a [sample spreadsheet](https://docs.google.com/spreadsheets/d/1DxZ_Iwnk9X6cMNrQBtVVgJnhsOezJ4ez2WTq7MX2ges/edit#gid=0&vpid=A2) as an example of how we manage curriculum. Take a look at the spreadsheet and read below for more explanation. 
 
