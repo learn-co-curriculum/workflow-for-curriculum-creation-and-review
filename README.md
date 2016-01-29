@@ -33,4 +33,4 @@ In the review process, the reviewer will usually have questions or comments whic
 
 **Complete**: When a PR has been successfully merged, you can change the stage to Complete
 
-<a href='https://learn.co/lessons/workflow-for-curriculum-creation-and-review' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/workflow-for-curriculum-creation-and-review' title='Workflow in a Nutshell'>Workflow in a Nutshell</a> on Learn.co and start learning to code for free.</p>
